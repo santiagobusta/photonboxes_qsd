@@ -1,1 +1,4 @@
-2bp_eigensystem\data\eigvecs_md_2bp_num_N12.npy
+2bp_eigensystem/data/eigvecs_md_2bp_num_N12.npy
+full_density_matrices/rhoA_N12_num.npy
+full_density_matrices/rhoB_N12_num.npy
+full_density_matrices/rhoC_N12_num.npy
