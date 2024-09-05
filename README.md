@@ -32,6 +32,7 @@ Libraries required:
 
  - **numpy** for numerical data manipulation and processing
  - **matplotlib** for data visualization
+ - **scipy** for special functions and fittings
  - **sympy** for symbolic calculations
  - **picos** for semidefinite programming
  - **strawberryfields** for bosonic quantum circuit simulations
