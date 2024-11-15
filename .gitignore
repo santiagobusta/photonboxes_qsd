@@ -2,3 +2,6 @@
 full_density_matrices/rhoA_N12_num.npy
 full_density_matrices/rhoB_N12_num.npy
 full_density_matrices/rhoC_N12_num.npy
+full_density_matrices/rhoA_N14_num.npy
+full_density_matrices/rhoB_N14_num.npy
+full_density_matrices/rhoC_N14_num.npy
